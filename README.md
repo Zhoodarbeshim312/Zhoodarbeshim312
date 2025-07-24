@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-mnl7GgG7qKuWgMBB.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
+
 
 <h1 align="center">Ассаламу алейкум! Меня зовут Zhoodarbeshim 👋</h1>
 
@@ -45,12 +46,6 @@
 </div>
 
 ---
-
-## 🔥 Моя активность
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zhoodarbeshim312&theme=tokyonight" height="200" />
-</div>
 
 
 
