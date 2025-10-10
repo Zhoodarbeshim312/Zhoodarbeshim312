@@ -57,6 +57,11 @@
 
 ---
 
+## 🌐 Мой проект
+
+[![Weather Website](https://img.shields.io/badge/Перейти_на_сайт-Weather-blue?style=for-the-badge&logo=vercel)](https://weather-website-dev312.vercel.app/)
+
+
 ## 📊 GitHub Статистика
 
 <div align="center">
