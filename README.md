@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://docs.google.com/document/d/1qTzQT0eH4EtKCJpNH5ai0HQmgbwMmz9lz6MTvWcKzsM/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Моё_резюме-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+
 ---
 
 ## 🌱 Обо мне
