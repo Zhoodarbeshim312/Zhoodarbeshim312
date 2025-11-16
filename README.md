@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="385" src="https://media1.tenor.com/m/ZUZXPRgrHxIAAAAC/demon-slayer-demon-slayer-s2.gif"  />
+  <img height="300"  src="https://media1.tenor.com/m/ZUZXPRgrHxIAAAAC/demon-slayer-demon-slayer-s2.gif"  />
 </div>
 
 <h1 align="center">🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim</h1>
