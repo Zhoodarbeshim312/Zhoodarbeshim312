@@ -1,16 +1,16 @@
-<div align="left">
-  <img height="245" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+<div align="center">
+  <img height="385" src="https://media1.tenor.com/m/ZUZXPRgrHxIAAAAC/demon-slayer-demon-slayer-s2.gif"  />
 </div>
 
-<h1 align="left">🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim</h1>
+<h1 align="center">🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim</h1>
 
-<p align="left">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&color=00F7FF&vCenter=true&width=435&lines=FullStack+Web+Developer;Frontend+%2F+Backend+разработка;React+%7C+Next.js+%7C+Node.js+%7C+Redux;Учусь+и+развиваюсь+Ин+Ша+Аллаh" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://docs.google.com/document/d/1qTzQT0eH4EtKCJpNH5ai0HQmgbwMmz9lz6MTvWcKzsM/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Моё_резюме-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
@@ -30,7 +30,7 @@
 
 ## 🛠️ Мои навыки
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -72,7 +72,7 @@
 
 ## 📊 GitHub Статистика
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zhoodarbeshim312&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhoodarbeshim312&layout=compact&theme=tokyonight" height="150" />
 </div>
