@@ -2,7 +2,7 @@
   <img height="404" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
 </div
 
-<h1 align="center">🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim</h1>
+<h1 align="center"> 🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
