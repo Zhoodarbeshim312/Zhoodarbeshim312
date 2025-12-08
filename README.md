@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1qTzQT0eH4EtKCJpNH5ai0HQmgbwMmz9lz6MTvWcKzsM/edit?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Моё_резюме-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  <a href="https://www.canva.com/design/DAG4GP1hUNI/pHoEaseaB0ytHjVZ-oalXg/edit?utm_content=DAG4GP1hUNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Моё_резюме-blue?style=for-the-badge&logo=canva&logoColor=white" alt="Resume" />
   </a>
 </p>
 
