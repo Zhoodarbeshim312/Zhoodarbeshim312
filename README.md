@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="404" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
-</div
+  <img height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+</div>
 
-<h1 align="center"> 🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim </h1>
+<h1 align="center">🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -16,49 +16,65 @@
   </a>
 </p>
 
-
----
-
-## 🌱 Обо мне
-
-- 🧠 Стремлюсь стать сильным программистом **Ин Ша Аллаh**
-- 💡 Люблю создавать современные UI/UX интерфейсы
-- 📚 Постоянно учусь и практикуюсь в **FullStack разработке**
-- 🤲 Всегда полагаюсь на Аллаhа в своих усилиях
-
 ---
 
 ## 🛠️ Мои навыки
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
+<p align="center">
+<table align="center" cellspacing="10" cellpadding="5" style="table-layout: fixed; width: 100%; max-width: 900px; text-align: center;">
+  <tr>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML5" /><br>HTML5
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="CSS3" /><br>CSS3
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="43" height="43" alt="SASS" /><br>SASS
+    </td>
+    <td width="80"  align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="TailwindCSS" /><br>TailwindCSS
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="43" height="43" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="43" height="43" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="43" height="43" alt="Python" /><br>Python
+    </td>
+  </tr>
+  <tr>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="43" height="43" alt="React" /><br>React
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=redux" width="43" height="43" alt="Redux" /><br>Redux
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" /><br>Next.js
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="43" height="43" alt="Figma" /><br>Figma
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" /><br>Node.js
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" /><br>Express
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" /><br>Git
+    </td>
+    <td width="80" align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" /><br>GitHub
+    </td>
+  </tr>
+</table>
+</p>
 
 ###
 
@@ -72,10 +88,9 @@
 
 ## 📊 GitHub Статистика
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhoodarbeshim312&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhoodarbeshim312&layout=compact&theme=tokyonight" height="150" />
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhoodarbeshim312&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
