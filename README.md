@@ -91,7 +91,24 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhoodarbeshim312&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhoodarbeshim312&theme=react)
+
+</div>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhoodarbeshim312&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zhoodarbeshim312&theme=react)
+
+</div>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zhoodarbeshim312&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhoodarbeshim312&theme=react)
+
+</div>
 
 ---
-
-
