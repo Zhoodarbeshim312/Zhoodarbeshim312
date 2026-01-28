@@ -1,91 +1,67 @@
 <div align="center">
-  <img height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+  <img height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
 </div>
 
-<h1 align="center">🤝 Ассаламу алейкум, меня зовут Zhoodarbeshim</h1>
+<h1 align="center">🤝 Assalamu Alaikum, my name is Zhoodarbeshim</h1>
+<h3 align="center">FullStack Web Developer | React • Next.js • Node.js | Learning & Growing In Sha Allah</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&color=00F7FF&vCenter=true&width=435&lines=FullStack+Web+Developer;Frontend+%2F+Backend+разработка;React+%7C+Next.js+%7C+Node.js+%7C+Redux;Учусь+и+развиваюсь+Ин+Ша+Аллаh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&color=00F7FF&vCenter=true&width=520&lines=FullStack+Web+Developer;Frontend+%2F+Backend+Development;React+%7C+Next.js+%7C+Node.js+%7C+Redux;Learning+and+Growing+In+Sha+Allah" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.canva.com/design/DAG4GP1hUNI/pHoEaseaB0ytHjVZ-oalXg/edit?utm_content=DAG4GP1hUNI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Моё_резюме-blue?style=for-the-badge&logo=canva&logoColor=white" alt="Resume" />
+  <a href="https://www.canva.com/design/DAG4GP1hUNI/pHoEaseaB0ytHjVZ-oalXg/edit" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20My_Resume-blue?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Мои навыки
-<p align="center">
-<table align="center" cellspacing="10" cellpadding="5" style="table-layout: fixed; width: 100%; max-width: 900px; text-align: center;">
-  <tr>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML5" /><br>HTML5
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="CSS3" /><br>CSS3
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="43" height="43" alt="SASS" /><br>SASS
-    </td>
-    <td width="80"  align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="TailwindCSS" /><br>TailwindCSS
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" /><br>Bootstrap
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="43" height="43" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="43" height="43" alt="TypeScript" /><br>TypeScript
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="43" height="43" alt="Python" /><br>Python
-    </td>
-  </tr>
-  <tr>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="43" height="43" alt="React" /><br>React
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=redux" width="43" height="43" alt="Redux" /><br>Redux
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" /><br>Next.js
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="43" height="43" alt="Figma" /><br>Figma
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" /><br>Node.js
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" /><br>Express
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" /><br>Git
-    </td>
-    <td width="80" align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" /><br>GitHub
-    </td>
-  </tr>
-</table>
-</p>
+## 👨‍💻 About Me
 
-###
+* 🧠 FullStack Developer (React / Next.js / Node.js)
+* ⚙️ Writing clean and scalable code
+* 🚀 Focusing on backend and security (Auth, JWT)
+* 📚 Constantly learning and improving
+* 🤝 Open to work, internships, and collaborations
 
 ---
 
-## 📊 GitHub Статистика
+## 🛠️ Skills
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhoodarbeshim312&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,python,react,redux,nextjs,nodejs,express,git,github,figma,vue,postman,gulp&perline=8" />
 </p>
 
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhoodarbeshim312&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zhoodarbeshim312&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhoodarbeshim312&layout=compact&theme=react&hide_border=true&langs_count=8" />
+</p>
 
 ---
+
+## 📌 Currently
+
+* 🔭 Diving deeper into Backend and Security
+* ⚙️ Practicing TypeScript + Node.js
+* 🌱 Preparing for a FullStack Developer role
+
+---
+
+## ⚡ Fun Facts
+
+* ☕ Code + Tea = Productivity
+* 🧠 Love learning how things work under the hood
+* 🎯 Prefer clean architecture over quick hacks
+* 🤍 Code with discipline and intention (In Sha Allah)
