@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="332" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" />
+  <img height="324" src="https://i.pinimg.com/originals/87/ba/2e/87ba2e881368ee5f815ec9f7f63c3e87.gif" />
 </div>
 
 <h1 align="center">🤝 Assalamu Alaikum, my name is Zhoodarbeshim</h1>
