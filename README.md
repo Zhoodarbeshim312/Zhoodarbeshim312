@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.canva.com/design/DAG8bX9PYjI/WX9bEDaFekjhDcOZSvYh3g/view?utm_content=DAG8bX9PYjI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf60222990f" target="_blank">
+  <a href="https://drive.google.com/file/d/1ta31-yWQI5jOnct5eJIq46bAtiil5vqb/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20My_Resume-blue?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
 </p>
