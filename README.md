@@ -32,7 +32,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,redux,nextjs,nodejs,express,git,github,figma,postman,nestjs,docker,prisma&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,git,github,nestjs,docker,prisma&perline=8" />
 </p>
 
 
