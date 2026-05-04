@@ -15,19 +15,36 @@
   <a href="https://drive.google.com/file/d/1ta31-yWQI5jOnct5eJIq46bAtiil5vqb/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄%20My_Resume-blue?style=for-the-badge&logo=canva&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://baaluukitep.kg" target="_blank">
+    <img src="https://img.shields.io/badge/🛒%20Баалуу%20Китеп-Commercial%20Project-green?style=for-the-badge&logo=shopify&logoColor=white" />
+  </a>
 </p>
 
----
+-----
 
 ## 👨‍💻 About Me
 
-* 🧠 FullStack Developer (React / Next.js / Node.js)
-* ⚙️ Writing clean and scalable code
-* 🚀 Focusing on backend and security (Auth, JWT)
-* 📚 Constantly learning and improving
-* 🤝 Open to work, internships, and collaborations
+- 🧠 FullStack Developer (React / Next.js / Node.js)
+- ⚙️ Writing clean and scalable code
+- 🚀 Focusing on backend and security (Auth, JWT)
+- 📚 Constantly learning and improving
+- 🤝 Open to work, internships, and collaborations
 
----
+-----
+
+## 🌐 Commercial Project
+
+<p align="center">
+  <a href="https://baaluukitep.kg" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20baaluukitep.kg-Live%20Project-success?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+
+> 📦 A real commercial project built and deployed — visit **[baaluukitep.kg](https://baaluukitep.kg)** to see it live!
+
+-----
 
 ## 🛠️ Skills
 
@@ -35,8 +52,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,git,github,nestjs,docker,prisma&perline=8" />
 </p>
 
-
----
+-----
 
 ## 📊 GitHub Statistics
 
@@ -48,19 +64,19 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhoodarbeshim312&theme=react-dark&hide_border=true&area=true" />
 </p>
 
----
+-----
 
 ## 📌 Currently
 
-* 🔭 Diving deeper into Backend and Security
-* ⚙️ Practicing TypeScript + Node.js
-* 🌱 Preparing for a FullStack Developer role
+- 🔭 Diving deeper into Backend and Security
+- ⚙️ Practicing TypeScript + Node.js
+- 🌱 Preparing for a FullStack Developer role
 
----
+-----
 
 ## ⚡ Fun Facts
 
-* ☕ Code + Tea = Productivity
-* 🧠 Love learning how things work under the hood
-* 🎯 Prefer clean architecture over quick hacks
-* 🤍 Code with discipline and intention (In Sha Allah)
+- ☕ Code + Tea = Productivity
+- 🧠 Love learning how things work under the hood
+- 🎯 Prefer clean architecture over quick hacks
+- 🤍 Code with discipline and intention (In Sha Allah)
